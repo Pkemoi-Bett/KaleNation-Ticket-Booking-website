@@ -1,0 +1,174 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/bett/WebDevelopment/DOT NET/KaleNation/KaleNation.Application/KaleNation.Application.csproj": {}
+  },
+  "projects": {
+    "/home/bett/WebDevelopment/DOT NET/KaleNation/KaleNation.Application/KaleNation.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/bett/WebDevelopment/DOT NET/KaleNation/KaleNation.Application/KaleNation.Application.csproj",
+        "projectName": "KaleNation.Application",
+        "projectPath": "/home/bett/WebDevelopment/DOT NET/KaleNation/KaleNation.Application/KaleNation.Application.csproj",
+        "packagesPath": "/home/bett/.nuget/packages/",
+        "outputPath": "/home/bett/WebDevelopment/DOT NET/KaleNation/KaleNation.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/bett/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/bett/WebDevelopment/DOT NET/KaleNation/KaleNation.Domain/KaleNation.Domain.csproj": {
+                "projectPath": "/home/bett/WebDevelopment/DOT NET/KaleNation/KaleNation.Domain/KaleNation.Domain.csproj"
+              },
+              "/home/bett/WebDevelopment/DOT NET/KaleNation/KaleNation.Shared/KaleNation.Shared.csproj": {
+                "projectPath": "/home/bett/WebDevelopment/DOT NET/KaleNation/KaleNation.Shared/KaleNation.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.117/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/bett/WebDevelopment/DOT NET/KaleNation/KaleNation.Domain/KaleNation.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/bett/WebDevelopment/DOT NET/KaleNation/KaleNation.Domain/KaleNation.Domain.csproj",
+        "projectName": "KaleNation.Domain",
+        "projectPath": "/home/bett/WebDevelopment/DOT NET/KaleNation/KaleNation.Domain/KaleNation.Domain.csproj",
+        "packagesPath": "/home/bett/.nuget/packages/",
+        "outputPath": "/home/bett/WebDevelopment/DOT NET/KaleNation/KaleNation.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/bett/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.117/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/bett/WebDevelopment/DOT NET/KaleNation/KaleNation.Shared/KaleNation.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/bett/WebDevelopment/DOT NET/KaleNation/KaleNation.Shared/KaleNation.Shared.csproj",
+        "projectName": "KaleNation.Shared",
+        "projectPath": "/home/bett/WebDevelopment/DOT NET/KaleNation/KaleNation.Shared/KaleNation.Shared.csproj",
+        "packagesPath": "/home/bett/.nuget/packages/",
+        "outputPath": "/home/bett/WebDevelopment/DOT NET/KaleNation/KaleNation.Shared/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/bett/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.117/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

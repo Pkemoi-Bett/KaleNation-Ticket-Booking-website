@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KaleNation.API", "KaleNation.API\KaleNation.API.csproj", "{B85CF7A5-DFE4-473B-A3A9-4936D56B3C36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KaleNation.Application", "KaleNation.Application\KaleNation.Application.csproj", "{596F32B3-A605-47DA-9A69-BD0129EF637F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KaleNation.Domain", "KaleNation.Domain\KaleNation.Domain.csproj", "{FDB1744F-4C41-4BE9-92F3-7E855CA57478}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KaleNation.Infrastructure", "KaleNation.Infrastructure\KaleNation.Infrastructure.csproj", "{FD45FDCE-7AE6-4438-BC7E-5D4546AE3A38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KaleNation.Shared", "KaleNation.Shared\KaleNation.Shared.csproj", "{A240C711-E7B8-44AA-B294-3E7B60959973}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KaleNation.UnitTests", "KaleNation.UnitTests\KaleNation.UnitTests.csproj", "{850E1CEA-59BE-46F3-A1AC-7948A71D76D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B85CF7A5-DFE4-473B-A3A9-4936D56B3C36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B85CF7A5-DFE4-473B-A3A9-4936D56B3C36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B85CF7A5-DFE4-473B-A3A9-4936D56B3C36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B85CF7A5-DFE4-473B-A3A9-4936D56B3C36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{596F32B3-A605-47DA-9A69-BD0129EF637F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{596F32B3-A605-47DA-9A69-BD0129EF637F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{596F32B3-A605-47DA-9A69-BD0129EF637F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{596F32B3-A605-47DA-9A69-BD0129EF637F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDB1744F-4C41-4BE9-92F3-7E855CA57478}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDB1744F-4C41-4BE9-92F3-7E855CA57478}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDB1744F-4C41-4BE9-92F3-7E855CA57478}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDB1744F-4C41-4BE9-92F3-7E855CA57478}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD45FDCE-7AE6-4438-BC7E-5D4546AE3A38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD45FDCE-7AE6-4438-BC7E-5D4546AE3A38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD45FDCE-7AE6-4438-BC7E-5D4546AE3A38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD45FDCE-7AE6-4438-BC7E-5D4546AE3A38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A240C711-E7B8-44AA-B294-3E7B60959973}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A240C711-E7B8-44AA-B294-3E7B60959973}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A240C711-E7B8-44AA-B294-3E7B60959973}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A240C711-E7B8-44AA-B294-3E7B60959973}.Release|Any CPU.Build.0 = Release|Any CPU
+		{850E1CEA-59BE-46F3-A1AC-7948A71D76D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{850E1CEA-59BE-46F3-A1AC-7948A71D76D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{850E1CEA-59BE-46F3-A1AC-7948A71D76D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{850E1CEA-59BE-46F3-A1AC-7948A71D76D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
