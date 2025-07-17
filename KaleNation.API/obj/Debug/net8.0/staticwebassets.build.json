@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "rv58gmi6eHiJ61WM3eb2U64lTklCIC7B8UvBiakibqA=",
+  "Source": "KaleNation.API",
+  "BasePath": "_content/KaleNation.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

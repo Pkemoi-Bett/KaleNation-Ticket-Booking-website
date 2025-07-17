@@ -4,16 +4,13 @@ namespace KaleNation.Application.Interfaces;
 
 public interface IEventService
 {
-    //Creates a new Event from details provided by an organizer
-    Task CreateEvebtAsync(EventDto eventDto);
+    /// <summary>
+    /// Creates a new event.
+    /// </summary>
+    Task CreateEventAsync(EventDto eventDto);
 
-    //Retrieves all upcoming events filtered by optional criteria 
-
-    Task<List<EventDto>> GetEventAsync(
-        string genre,
-        string location,
-        DateTime? startDate
-    );
-    
-
+    /// <summary>
+    /// Gets all events based on filters.
+    /// </summary>
+    Task<List<EventDto>> GetEventsAsync(string genre, string location, DateTime? date);
 }

@@ -1,0 +1,12 @@
+/home/bett/WebDevelopment/DOT NET/KaleNation/KaleNation.Domain/bin/Debug/net8.0/KaleNation.Domain.deps.json
+/home/bett/WebDevelopment/DOT NET/KaleNation/KaleNation.Domain/bin/Debug/net8.0/KaleNation.Domain.dll
+/home/bett/WebDevelopment/DOT NET/KaleNation/KaleNation.Domain/bin/Debug/net8.0/KaleNation.Domain.pdb
+/home/bett/WebDevelopment/DOT NET/KaleNation/KaleNation.Domain/obj/Debug/net8.0/KaleNation.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/bett/WebDevelopment/DOT NET/KaleNation/KaleNation.Domain/obj/Debug/net8.0/KaleNation.Domain.AssemblyInfoInputs.cache
+/home/bett/WebDevelopment/DOT NET/KaleNation/KaleNation.Domain/obj/Debug/net8.0/KaleNation.Domain.AssemblyInfo.cs
+/home/bett/WebDevelopment/DOT NET/KaleNation/KaleNation.Domain/obj/Debug/net8.0/KaleNation.Domain.csproj.CoreCompileInputs.cache
+/home/bett/WebDevelopment/DOT NET/KaleNation/KaleNation.Domain/obj/Debug/net8.0/KaleNation.Domain.sourcelink.json
+/home/bett/WebDevelopment/DOT NET/KaleNation/KaleNation.Domain/obj/Debug/net8.0/KaleNation.Domain.dll
+/home/bett/WebDevelopment/DOT NET/KaleNation/KaleNation.Domain/obj/Debug/net8.0/refint/KaleNation.Domain.dll
+/home/bett/WebDevelopment/DOT NET/KaleNation/KaleNation.Domain/obj/Debug/net8.0/KaleNation.Domain.pdb
+/home/bett/WebDevelopment/DOT NET/KaleNation/KaleNation.Domain/obj/Debug/net8.0/ref/KaleNation.Domain.dll
