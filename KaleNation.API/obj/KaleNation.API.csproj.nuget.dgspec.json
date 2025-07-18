@@ -235,6 +235,9 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
+              "/home/bett/WebDevelopment/DOT NET/KaleNation/KaleNation.Application/KaleNation.Application.csproj": {
+                "projectPath": "/home/bett/WebDevelopment/DOT NET/KaleNation/KaleNation.Application/KaleNation.Application.csproj"
+              },
               "/home/bett/WebDevelopment/DOT NET/KaleNation/KaleNation.Domain/KaleNation.Domain.csproj": {
                 "projectPath": "/home/bett/WebDevelopment/DOT NET/KaleNation/KaleNation.Domain/KaleNation.Domain.csproj"
               },

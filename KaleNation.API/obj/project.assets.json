@@ -2447,6 +2447,7 @@
         "dependencies": {
           "CsvHelper": "30.0.1",
           "DinkToPdf": "1.0.8",
+          "KaleNation.Application": "1.0.0",
           "KaleNation.Domain": "1.0.0",
           "KaleNation.Shared": "1.0.0",
           "Microsoft.EntityFrameworkCore": "8.0.0",
